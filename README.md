@@ -1,5 +1,5 @@
 # Master Mathématique Informatique MIDS
 
-# Big Data Homework 1
-LECHUGA Julian
-Morakhovski Alexander
+# Big Data Course Homework 1
+- LECHUGA Julian
+- MORAKHOVSKI Alexander
