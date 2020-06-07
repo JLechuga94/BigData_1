@@ -4,7 +4,7 @@
 - LECHUGA Julian
 - MORAKHOVSKI Alexander
 
-### Attention!!
+### Attention Homework 3!!
 For the DM3, since the plots in the notebook are a bit heavy, we decided to
 include the HTML files for the whole notebook and individual files for the
 slider graphs for the final question and the Heatmaps.
@@ -27,13 +27,13 @@ not show the heatmaps please run the section of code for those specific question
 in order to show the plots. Nonetheless these files are also included in the
 **/homework03_html** folder
 
-####Number of pickups Heatmap
+#### Number of pickups Heatmap
 ![Number of pickups Heatmap](/homework03_html/heatmapA.png)
 
-####Number of dropoffs Heatmap
+#### Number of dropoffs Heatmap
 ![Number of dropoffs Heatmap](/homework03_html/heatmapB.png)
 
-####Number of pickups with dropoff at some airport Heatmap
+#### Number of pickups with dropoff at some airport Heatmap
 ![Number of pickups with dropoff at some airport Heatmap](/homework03_html/heatmapC.png)
 
 Merci beaucoup!
