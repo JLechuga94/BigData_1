@@ -36,3 +36,4 @@ in order to show the plots. Nonetheless these files are also included in the
 ![Number of pickups with dropoff at some airport Heatmap](/homework03_html/heatmapC.png)
 
 Merci beaucoup!
+lechugal | BasOmyic
